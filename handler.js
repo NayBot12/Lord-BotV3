@@ -745,7 +745,7 @@ module.exports = {
 
               let lea = await (await fetch(fla + `GOOD BYE`)).buffer()
 
-await conn.sendMessage(jid, { "contentText": action === 'add' ? '[ *WELCOME* ]' : '[ *GOOD BYE* ]' , "footerText": text,
+await conn.sendMessage(jid, { "contentText": action === 'add' ? '' : '' , "footerText": text,
 "buttons": [
 {buttonId: '.menu', buttonText: {displayText: '⋮☰ Menu'}, type: 1},
 {buttonId: '.infogc', buttonText: {displayText: 'Info Group'}, type: 1},
