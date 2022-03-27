@@ -5,15 +5,15 @@ let handler = async (m, { conn, text }) => {
 let logo = global.logoowner
   let ext= `
 *───────[ BIODATA OWNER ]───────*
-*💌 Nama* : AmmarBN
-*🎨 Umur* : 14
-*🧮 Kelas* : 8
-*📈 Status* : Busy
+*💌 Nama* : RiyoOfc
+*🎨 Umur* : 17
+*🧮 Kelas* : 11
+*📈 Status* : Pacaran
 
 *───────[ SOSIAL MEDIA ]───────*
-*📷 instagran* : @lord_ammar_quoteser
+*📷 instagran* : @riyoofc_
 *🇫  Facebook* : none
-*🏮 Chanel Youtube* : https://bit.ly/AmmarExecuted
+*🏮 Chanel Youtube* : https://youtube.com/channel/UCq2OIMRWymUW4ykJnfHp5PQ
 `
 let name = await conn.getName(m.sender)
 
@@ -33,7 +33,7 @@ let fkon = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ?
         "descriptionCount": "999999999",
         "productImageCount": "1",
       },
-      "businessOwnerJid": "6288229683561@s.whatsapp.net",
+      "businessOwnerJid": "6281223918622@s.whatsapp.net",
       "contextInfo": {
         "forwardingScore": 9999,
         "isForwarded": false
