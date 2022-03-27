@@ -2,10 +2,13 @@ let fetch = require('node-fetch')
 let handler = async (m, { conn }) => {
 	conn.send2ButtonLoc(m.chat, await (await fetch(fla + 'sewa bot')).buffer(), `╭═══ *〘 SEWA 〙*
 ║ ┅ ๑————————————๑
-║┊ ⌲ Sewa = _5k/grup (1 Bulan)_
-║┊ ⌲ Sewa = _7k/grup (2 Bulan)_
-║┊ ⌲ Sewa = _10k/grup (3 bulan)_
-║┊ ⌲ Sewa = _12k/grup (Permanent)_                                                                      ║┊ ⌲ Sewa = _45k/grup (12 bulan)_
+║┊ ⌲ Sewa = _3k/grup (1 Minggu)_
+║┊ ⌲ Sewa = _4k/grup (2 Minggu)_
+║┊ ⌲ Sewa = _5k/grup (3 Minggu )_
+║┊ ⌲ Sewa = _6k/grup (1 Bulan)_  
+║┊ ⌲ Sewa = _8k/grup (2 Bulan)_
+║┊ ⌲ Sewa = _10k/grup (3 Bulan)_
+║┊ ⌲ Sewa = _12k/grup (permanent)_
 ╰═ ┅ ═══════
 
 
@@ -16,7 +19,7 @@ let handler = async (m, { conn }) => {
 ✧ *Kick Orang*
 ✧ *Add Orang*
 ✧ *Anti Link On*
-✧ *Bisa Memasukkan Bot Ke dalam Grup*
+✧ *Bisa Dan 900+ Fitur Lainnya*
 
 *[❗] Jika Group Sepi 2 minggu, bot akan leave*
 
