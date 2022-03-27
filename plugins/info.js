@@ -77,10 +77,10 @@ let handler  = async (m, { conn, usedPrefix }) => {
 *ℒ⃝💻C O N N E C T  W I T H  M E*
 
 ⛎ *Api:* http://api-alphabot.herokuapp.com
-♈ *Youtube:* https://bit.ly/AmmarExecuted
-♉ *Github:* https://github.com/Lord-Ammar
-♊ *Insragram:* http://instagram.com/lord_ammar_quoteser
-♏ *Whatsapp:* wa.me/6288229683561
+♈ *Youtube:* https://youtube.com/channel/UCq2OIMRWymUW4ykJnfHp5PQ
+♉ *Github:* https://github.com/RiyoXdz
+♊ *Insragram:* http://instagram.com/riyoofc_
+♏ *Whatsapp:* wa.me/6281223918622
 
 
 
