@@ -77,7 +77,7 @@ global.packname = '🌙 Riyo Botz\nwa.me/6281321399115\n\n\n𝙱𝚢 Kurumi あ\
 global.author = '۰ ⸼'
 
 // silakan di ganti klo mau
-global.botwm = `🤖 Riyo Botz`//UBAH JADI NAMAMU
+global.botwm = 'Ⓡ𝚁𝚒𝚢𝚘 𝙱𝚘𝚝𝚣`//UBAH JADI NAMAMU
 global.wm = `꒷︶꒷꒥꒷ ‧₊˚ ꒰ RiyoOfc ꒱ ‧₊˚꒷︶꒷꒥꒷`
 global.botdate = `❏ ${wktu}\n❏ ${week} ${date}`
 global.imagebot = `https://telegra.ph/file/793b6accf3758f092742a.jpg`
